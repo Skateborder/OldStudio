@@ -4,6 +4,8 @@ OldStudio brings back the classic YouTube Studio Analytics overview when Studio 
 
 ## Before and after
 
+![YouTube Studio Insights before and classic Analytics after](before-after.png)
+
 [Watch the before-and-after screen recording](oldstudio-demo.mp4).
 
 ## Install
